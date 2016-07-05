@@ -2,4 +2,4 @@
 
 Github beginner:3
 
-Trying :coffee: ?
+Trying drink :coffee: ?
